@@ -1,0 +1,5 @@
+trivia-env/
+.env
+__pycache__/
+*.pyc
+.langgraph_api/
