@@ -16,7 +16,7 @@ init → get_question → get_answer → commentary → advance_round → (loop 
 - **advance_round** — difficulty scales up on a strong streak and eases off after a couple of misses; routes back into another round or on to the recap once the round limit (or a player quit) is reached
 - **recap** — Gemini writes a short summary of the player's performance, calling out strong and weak categories
 
-- <img width="607" height="482" alt="LangGraph Trivia agent" src="https://github.com/user-attachments/assets/9a042ae5-2130-4027-91c2-23e7f1783178" />
+ <img width="607" height="482" alt="LangGraph Trivia agent" src="https://github.com/user-attachments/assets/9a042ae5-2130-4027-91c2-23e7f1783178" />
 
 
 ### Cash mechanic
